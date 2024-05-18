@@ -1,0 +1,17 @@
+.card {
+  border-radius: 20px;
+  border: 2px solid #3d8701;
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+}
+
+.card * {
+  margin-bottom: 15px;
+}
+
+.card__button {
+  padding: 4px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}

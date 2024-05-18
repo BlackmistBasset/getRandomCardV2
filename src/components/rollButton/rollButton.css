@@ -1,0 +1,18 @@
+.roll_button {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  font-size: 3rem;
+  gap: 15px;
+  margin: 20px auto;
+  cursor: pointer;
+  background-color: #3d8701;
+  color: #e0d3d3;
+  font-family: "Rubik Vinyl", cursive;
+}
+
+.roll_button:hover {
+  opacity: 0.9;
+}
